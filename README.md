@@ -2,6 +2,7 @@
 
 This Repository serves as a template for creating external modules for Floppa Client.
 It features a minimalistic template for a module both in Java and in Kotlin.
+Click on `Use this template` or fork this repository to begin.
 
 If you are not sure which one of the two to use, I strongly recommend that you use Kotlin.
 
